@@ -1,5 +1,5 @@
 # Spatial Attention in encoding letter combinations
-All raw subject data is in the results folder - under Endo and Exo respectively. 
+All raw subject data are in zip format labelled as Exo and Exo2 and Endo and Endo2 - to enable upload the 28 subjects data are uploaded in two parts 14 and 14 subjects. 
 
 AnalyzeBehDat.m is used to analyze behavioral data and generate the AllEndo.mat and AllExo.mat files. 
 
